@@ -1,0 +1,50 @@
+.fakeimg{
+	background-color: #212529; 
+	height: 200px;
+}
+svg{
+	margin-top: 5px;
+	margin-right: 10px;
+    float: left;
+}
+.tab{
+	background-color: #F7F7F7 ;
+    padding: 20px;
+    box-shadow: 5px 5px 2px #0086FF;
+    border-radius:10px;
+}
+.tabs{
+	background-color: #F7F7F7 ;
+    box-shadow: 5px 5px 2px #0086FF;
+    border-radius:10px;
+}
+.test{
+	border-bottom: 4px solid #65AAEF;
+}
+.para{
+	margin-top: 10px;
+	padding: 20px;
+}
+.img{
+	margin-top: 5px;
+	margin-right: 10px;
+	float: left;
+	margin-bottom: 10px;
+}
+.footer{
+        background-color: #0086FF;
+        height: 100px;
+        color: white;
+        text-align: center;     
+}
+.tab:hover {
+    transform: scale(1.05);
+    box-shadow:  8px 8px 3px #0086FF;
+    transition: 0.3s;
+}
+.tabc{
+    background-color: #F7F7F7 ;
+    padding: 20px;
+    box-shadow: 5px 5px 2px #0086FF;
+}
+
